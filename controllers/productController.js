@@ -2,7 +2,8 @@
 let products = [
   { id: 1, name: 'Laptop Pro', price: 1200 },
   { id: 2, name: 'Teclado Mecánico', price: 150 },
-  { id: 3, name: 'Mouse Gamer', price: 75 }
+  { id: 3, name: 'Mouse Gamer', price: 75 },
+  { id: 4, name: 'Pantalla Gamer', price: 300 },
 ];
 let nextId = 4;
 
