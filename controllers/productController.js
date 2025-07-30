@@ -4,6 +4,8 @@ let products = [
   { id: 2, name: 'Teclado Mecánico', price: 150 },
   { id: 3, name: 'Mouse Gamer', price: 75 },
   { id: 4, name: 'Pantalla Gamer', price: 300 },
+  { id: 5, name: 'Silla Gamer', price: 400 },
+  
 ];
 let nextId = 4;
 
