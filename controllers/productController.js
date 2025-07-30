@@ -5,6 +5,7 @@ let products = [
   { id: 3, name: 'Mouse Gamer', price: 75 },
   { id: 4, name: 'Pantalla Gamer', price: 300 },
   { id: 5, name: 'Silla Gamer', price: 400 },
+  { id: 6, name: 'Pantalla LCD', price: 600 },
   
 ];
 let nextId = 4;
